@@ -1,0 +1,14 @@
+C:\Users\zihao\OneDrive\vs code\IBM\MyCSharpProject\bin\Debug\net8.0\MyCSharpProject.exe
+C:\Users\zihao\OneDrive\vs code\IBM\MyCSharpProject\bin\Debug\net8.0\MyCSharpProject.deps.json
+C:\Users\zihao\OneDrive\vs code\IBM\MyCSharpProject\bin\Debug\net8.0\MyCSharpProject.runtimeconfig.json
+C:\Users\zihao\OneDrive\vs code\IBM\MyCSharpProject\bin\Debug\net8.0\MyCSharpProject.dll
+C:\Users\zihao\OneDrive\vs code\IBM\MyCSharpProject\bin\Debug\net8.0\MyCSharpProject.pdb
+C:\Users\zihao\OneDrive\vs code\IBM\MyCSharpProject\obj\Debug\net8.0\MyCSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zihao\OneDrive\vs code\IBM\MyCSharpProject\obj\Debug\net8.0\MyCSharpProject.AssemblyInfoInputs.cache
+C:\Users\zihao\OneDrive\vs code\IBM\MyCSharpProject\obj\Debug\net8.0\MyCSharpProject.AssemblyInfo.cs
+C:\Users\zihao\OneDrive\vs code\IBM\MyCSharpProject\obj\Debug\net8.0\MyCSharpProject.csproj.CoreCompileInputs.cache
+C:\Users\zihao\OneDrive\vs code\IBM\MyCSharpProject\obj\Debug\net8.0\MyCSharpProject.dll
+C:\Users\zihao\OneDrive\vs code\IBM\MyCSharpProject\obj\Debug\net8.0\refint\MyCSharpProject.dll
+C:\Users\zihao\OneDrive\vs code\IBM\MyCSharpProject\obj\Debug\net8.0\MyCSharpProject.pdb
+C:\Users\zihao\OneDrive\vs code\IBM\MyCSharpProject\obj\Debug\net8.0\MyCSharpProject.genruntimeconfig.cache
+C:\Users\zihao\OneDrive\vs code\IBM\MyCSharpProject\obj\Debug\net8.0\ref\MyCSharpProject.dll
