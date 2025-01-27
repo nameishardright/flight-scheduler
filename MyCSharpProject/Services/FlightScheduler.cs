@@ -39,13 +39,5 @@ namespace SpeedyAir.Services
             });
         }
 
-        public void DisplaySchedule()
-        {
-            foreach (var flight in _flights)
-            {
-                Console.WriteLine($"Flight: {flight.FlightNumber}, departure: {flight.DepartureCity}, " +
-                    $"arrival: {flight.ArrivalCity}, day: {flight.Day}");
-            }
-        }
     }
 } 

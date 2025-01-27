@@ -45,24 +45,6 @@ namespace SpeedyAir.Services
             }
             return null;
         }
-
-        public void DisplayItineraries()
-        {
-            foreach (var assignment in _orderAssignments)
-            {
-                var flight = assignment.Value;
-                Console.WriteLine($"order: {assignment.Key}, flightNumber: {flight.FlightNumber}, " +
-                    $"departure: {flight.DepartureCity}, arrival: {flight.ArrivalCity}, day: {flight.Day}");
-            }
-
-            // Display unscheduled orders
-            var unscheduledOrders = _unscheduledOrders.Select(o => o.OrderNumber);
-            foreach (var orderNumber in unscheduledOrders)
-            {
-                Console.WriteLine($"order: {orderNumber}, flightNumber: not scheduled");
-            }
-        }
-
         public IEnumerable<(string OrderNumber, Flight Flight)> GetScheduledOrders()
         {
             return _orderAssignments.Select(kvp => (kvp.Key, kvp.Value));
